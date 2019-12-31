@@ -1,6 +1,6 @@
 hello world
 
-git is good!
+good good yes!  
 
 Creating a new branch is quick and simple.
 
