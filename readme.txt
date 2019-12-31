@@ -2,4 +2,4 @@ hello world
 
 git is good!
 
-hello  china
+Creating a new branch is quick & simple.
